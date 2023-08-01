@@ -22,6 +22,7 @@ Feel free to explore and enjoy the weather forecast with Weather Caster!
 # Previews
 
 <p align = 'center'>
-  <img width = '350' height = '450' src = 'https://github.com/ROSHAN-KHANDAGALE/WeatherCaster/assets/92646499/ba2e3b9c-00c1-4af2-8cef-a5f2187eb679'>
-  <img width = '350' height = '450' src = 'https://github.com/ROSHAN-KHANDAGALE/WeatherCaster/assets/92646499/e9e2fb18-1587-4592-ae5c-fc62c974a7ae'>
+  <img width = '350' height = '450' src = 'https://github.com/ROSHAN-KHANDAGALE/Weather-Caster/assets/92646499/0bf0db3d-8368-44c7-9562-144bec472826'>
+  <img width = '350' height = '450' src = 'https://github.com/ROSHAN-KHANDAGALE/Weather-Caster/assets/92646499/171c1b11-389b-46a5-af81-15b876b2f354'>
+
 </p>
